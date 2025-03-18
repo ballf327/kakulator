@@ -1,4 +1,4 @@
-## kakulator
+## kalkulator
 ## deskripsi aplikasi
 Kalkulator Flutter adalah aplikasi sederhana yang memungkinkan pengguna melakukan perhitungan matematika dasar dengan mudah. Aplikasi ini memiliki fitur:
 
