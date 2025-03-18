@@ -1,16 +1,20 @@
-# flutter_application_caculato
+## kakulator
+## deskripsi aplikasi
+Kalkulator Flutter adalah aplikasi sederhana yang memungkinkan pengguna melakukan perhitungan matematika dasar dengan mudah. Aplikasi ini memiliki fitur:
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Operasi matematika dasar (+, -, ×, ÷)
+Riwayat perhitungan
+Tampilan profil pengguna
+Aplikasi ini dibuat menggunakan Flutter dengan desain yang responsif dan mudah digunakan.
+## software
+flutter 
+## cara instalisasi
+pastikan flutter sdk sudah ter instal
+git clone https://github.com/ballf327/kakulator
+## cara menjalankan
+flutter run 
+## demo
+https://github.com/user-attachments/assets/68291d72-0625-48d4-86b8-b31391b258f2
+## identitas
+iqbal fardiansyah 
+XI RPL 17
